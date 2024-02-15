@@ -62,4 +62,8 @@ const flattenedDbColumns = {
 
 
 const keysToKeep = ['create', 'createMany', 'data', 'supplier', 'supplier_address']
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 7afd0024b27f75a2f3f772a6e596b4c489aee65c
